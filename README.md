@@ -3,9 +3,9 @@
 # Python-Ransomware
 Complete Python RansomeWare Source Code With Full Decoumetions.
 
-To Convet the .py to exe You can use <a href="https://www.pyinstaller.org">pyinstaller</a> .
-TO install pyinstaller: <code>https://www.pyinstaller.org</code>
-
+To Convet the .py to exe You can use <a href="https://www.pyinstaller.org">pyinstaller</a> .<br>
+To install pyinstaller: <code>https://www.pyinstaller.org</code>
+To Convet .py File to exe : <code>pyinstaller --onefile -w --icon YourIcon.ico Ransomware.py </code>
 
 
 
