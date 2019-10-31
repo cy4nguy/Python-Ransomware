@@ -25,6 +25,10 @@ To Convet the .py to exe You can use <a href="https://www.pyinstaller.org">pyins
 To install pyinstaller: <code>https://www.pyinstaller.org</code><br>
 To Convet .py File to exe : <code>pyinstaller --onefile -w --icon YourIcon.ico Ransomware.py </code><br>
 
+To Decript Files :
+Change decrypt.py On line 34 From : 
+
+To This :
 
 <b>NOTE: THIS SOURCE CODE IS For Educational Purposes Only.<br>
 IM NOT RESBONBLE FOR ANY BAD & MALICIOUS USE OF IT.</b>
