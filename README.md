@@ -5,9 +5,9 @@
 Complete Python RansomeWare Source Code With Full Decoumetions.
 
 <pre>
-   ____ ____ _  _ ____ ____ _  _ _ _ _ ____ ____ ____  ___  _   _ <br>
-   |__/ |__| |\ | [__  |  | |\/| | | | |__| |__/ |___  |__]  \_/  <br>
-   |  \ |  | | \| ___] |__| |  | |_|_| |  | |  \ |___ .|      |   <br>
+   ____ ____ _  _ ____ ____ _  _ _ _ _ ____ ____ ____  ___  _   _ 
+   |__/ |__| |\ | [__  |  | |\/| | | | |__| |__/ |___  |__]  \_/  
+   |  \ |  | | \| ___] |__| |  | |_|_| |  | |  \ |___ .|      |   
 </pre>
 
 About: This is a Classic Example Of RansomWare Written in python.
