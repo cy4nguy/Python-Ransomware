@@ -3,8 +3,18 @@
 # Python-Ransomware
 Complete Python RansomeWare Source Code With Full Decoumetions.
 
+To Convet the .py to exe You can use <a href="https://www.pyinstaller.org">pyinstaller</a> .
+
+
+
+
+
+
+
+
+
+
+
+
 <b>NOTE: THIS SOURCE CODE IS For Educational Purposes Only.
 IM NOT RESBONBLE FOR ANY BAD & MALICIOUS USE OF IT.</b>
-
-To Convet the .py to exe You can use <a harf="https://www.pyinstaller.org">pyinstaller</a> .
-
