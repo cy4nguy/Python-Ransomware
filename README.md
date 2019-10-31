@@ -2,3 +2,5 @@
 
 # Python-Ransomware
 Complete Python RansomeWare Source Code With Full Decoumetions.
+<b style="color:red">THIS SOURCE CODE IS For Educational Purposes Only.
+IM NOT RESBONBLE FOR ANY BAD & MALIOS USE THIS SCRIPT</b>
