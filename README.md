@@ -4,14 +4,13 @@
 
 Complete Python RansomeWare Source Code With Full Decoumetions.
 
-<code>
-   <pre>
-____ ____ _  _ ____ ____ _  _ _ _ _ ____ ____ ____  ___  _   _ <br>
-|__/ |__| |\ | [__  |  | |\/| | | | |__| |__/ |___  |__]  \_/  <br>
-|  \ |  | | \| ___] |__| |  | |_|_| |  | |  \ |___ .|      |   <br>
-  </pre>
-</code>
+<pre>
+   ____ ____ _  _ ____ ____ _  _ _ _ _ ____ ____ ____  ___  _   _ <br>
+   |__/ |__| |\ | [__  |  | |\/| | | | |__| |__/ |___  |__]  \_/  <br>
+   |  \ |  | | \| ___] |__| |  | |_|_| |  | |  \ |___ .|      |   <br>
+</pre>
 
+About: This is a Classic Example Of RansomWare Written in python.
 
 To Convet the .py to exe You can use <a href="https://www.pyinstaller.org">pyinstaller</a>.<br>
 To install pyinstaller: <code>https://www.pyinstaller.org</code><br>
