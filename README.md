@@ -17,7 +17,7 @@ Suport : +Windows7 <br>
 Date of Publish : 10/31/2019 <br>
 Went Find out about what is Ransomware<br>
 
-<pre>   When Find out about what is Ransomware ? -> <a herf="https://en.wikipedia.org/wiki/Ransomware">Click Hare</a> <- </pre>
+<pre>   When Find out about what is Ransomware ? -> <a href="https://en.wikipedia.org/wiki/Ransomware">Click Hare</a> <- </pre>
 
 
 
