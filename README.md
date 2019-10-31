@@ -35,10 +35,10 @@ To This :<br>
 
 And line 27 From this : 
 <img src="https://github.com/cy4nguy/Python-Ransomware/blob/master/R1.png?raw=true"></img><br>
-to This: 
+to This:<br>
 <code>
-   Key         = b'68pNFX3kb9GplysL7XKfpdLLhlSrwZFEnFUuy54nEyY # Replace Your Key hare
-   FKey        = Fernet(Key)                                   # Our Fernet Moudle
+   Key         = b'68pNFX3kb9GplysL7XKfpdLLhlSrwZFEnFUuy54nEyY # Replace Your Key hare<br>
+   FKey        = Fernet(Key)                                   # Our Fernet Moudle<br>
 
 </code>
 <b>NOTE: THIS SOURCE CODE IS For Educational Purposes Only.<br>
