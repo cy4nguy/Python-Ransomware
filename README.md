@@ -27,7 +27,7 @@ To Convet .py File to exe : <code>pyinstaller --onefile -w --icon YourIcon.ico R
 
 # To Decript Files :
 Change Ransomware.py On line 48 From : 
-<img src="https://github.com/cy4nguy/Python-Ransomware/blob/master/R2.png?raw=true"></img><br>
+<img src="https://github.com/cy4nguy/Python-Ransomware/blob/Old_relesses/R2.png?raw=true"></img><br>
 To This :<br>
 <code><pre><br>
                 FileName    = loc.Target                # File name<br>
@@ -35,7 +35,7 @@ To This :<br>
 </code></pre><br>
 
 And line 27 From this : <br>
-<img src="https://github.com/cy4nguy/Python-Ransomware/blob/master/R1.png?raw=true"></img><br>
+<img src="https://github.com/cy4nguy/Python-Ransomware/blob/Old_relesses/R1.png?raw=true"></img><br>
 to This:<br>
 <code><pre><br>
    Key         = b'68pNFX3kb9GplysL7XKfpdLLhlSrwZFEnFUuy54nEyY # Replace Your Key hare<br>
