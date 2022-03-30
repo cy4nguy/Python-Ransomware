@@ -26,7 +26,7 @@ Before Converting File to exe Run :
 
 # To Decrypt Files :
 
-Run `python DeRansomware.py` On line 29 :
+Run `python DeRansomware.py` :
 
 ![](R7.png)
 
