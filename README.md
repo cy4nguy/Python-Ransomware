@@ -8,19 +8,22 @@ Complete Python RansomeWare Source Code With Full Decoumetions.
    |  \ |  | | \| ___] |__| |  | |_|_| |  | |  \ |___ .|      |   
 ~~~
 
-`About: This is a Classic Example Of RansomWare Written in python.<br>
-Tested On: Windows 10 / Windows7
-Suport : + Windows7
-Date of Publish : 10/31/2019
-Last Update : 11/3/2019
-Went Find out about what is Ransomware`
+|About: | This is a Classic Example Of RansomWare Written in python.
+|Tested On:  | Windows 10 / Windows7
+|Suport :  | + Windows7
+|Date of Publish :  | 10/31/2019
+|Last Update :  | 11/3/2019 |
 
-Find out about what is Ransomware [Hare](https://en.wikipedia.org/wiki/Ransomware)
+Find out about what is Ransomware [Here](https://en.wikipedia.org/wiki/Ransomware)
 
-- Convert the `.py` to `exe` You can use [pyinstaller](https://www.pyinstaller.org)
-- Convert `.py` File to `exe` : `pyinstaller --onefile -w --icon YourIcon.ico Ransomware.py`
+- Convert the `.py` to `exe` use [pyinstaller](https://www.pyinstaller.org)
+- Convert `.py` File to `exe` : 
 
-Before Converting File to exe Run : `pip install --user --requirement requirements.txt`
+`pyinstaller --onefile -w --icon YourIcon.ico Ransomware.py`
+
+Before Converting File to exe Run : 
+
+`pip install --user --requirement requirements.txt`
 
 # To Decrypt Files :
 
