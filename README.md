@@ -8,7 +8,8 @@ Complete Python RansomeWare Source Code With Full Decoumetions.
    |  \ |  | | \| ___] |__| |  | |_|_| |  | |  \ |___ .|      |   
 ~~~
 
-| About: | Tested On: | Suport : | Date of Publish : | Last Update : |
+| About: | Tested On: | Suport : | Publish : | Last Update : |
+| :----- | :----- | :----- | :----- | :----- |
 | RansomWare Written in python. | Windows 10 / Windows7 | + Windows7 | 10/31/2019 | 11/3/2019 |
 
 
