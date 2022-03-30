@@ -63,6 +63,4 @@ algorithm, and if your using old version I recommend  you to switch from it beca
 
 ### NOTE:
 
-THIS SOURCE CODE IS For Educational Purposes Only.
-IM NOT RESBONBLE FOR ANY BAD & MALICIOUS USE OF IT.
-P.S: This is just Concept and its still work in the progress
+P.S: This is just Concept and its still work in the progress For Educational Purposes Only.
