@@ -15,18 +15,24 @@ Complete Python RansomeWare Source Code With Full Decoumetions.
 
 Find out about what is Ransomware [Here](https://en.wikipedia.org/wiki/Ransomware)
 
-- Convert the `.py` to `exe` use [pyinstaller](https://www.pyinstaller.org)
+## Installation
+
+`pip install --user --requirement requirements.txt`
+
+## Usage
+
 - Convert `.py` File to `exe` : 
 
 `pyinstaller --onefile -w --icon YourIcon.ico Ransomware.py`
 
-Before Converting File to exe Run : 
 
-`pip install --user --requirement requirements.txt`
+### Decrypt Files :
 
-# To Decrypt Files :
+Run `python DeRansomware.py`
 
-Run `python DeRansomware.py` :
+### Encrypt Files :
+
+Run `python Ransomware.py`
 
 ![](R7.png)
 
@@ -43,6 +49,8 @@ Key     = b'T\xb5\xc4\x14\xe4\xa7\x18\x0b8T\xdb\xec\xf0.v>t\xce\x91w5y1\xce\xa3\
 ~~~
 
 Replace Key Betwen `" "` or `' '` with your own key
+
+
 
 # Change Log
 
