@@ -50,17 +50,11 @@ Key     = b'T\xb5\xc4\x14\xe4\xa7\x18\x0b8T\xdb\xec\xf0.v>t\xce\x91w5y1\xce\xa3\
 
 Replace Key Betwen `" "` or `' '` with your own key
 
-
-
-# Change Log
-
 `Change_log (11/3/2019)` :
 
 - Switching from cryptography Lib to pynacl.
 - Adding Decryptor script for Batter File decryption
 - Path Note: So on my research, i found out that pynacl is faster and stronger it is using <a href="https://en.wikipedia.org/wiki/Salsa20">Salsa20 stream cipher</a>
 algorithm, and if your using old version I recommend  you to switch from it because This version use More secure encryption ~ More updates on the way :)
-
-### NOTE:
 
 P.S: This is just Concept and its still work in the progress For Educational Purposes Only.
