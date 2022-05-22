@@ -1,6 +1,6 @@
 # Python-Ransomware
 
-Complete Python RansomeWare Source Code With Full Decoumetions.
+Complete Python RansomeWare Source Code With Full Documentations.
 
 ~~~
    ____ ____ _  _ ____ ____ _  _ _ _ _ ____ ____ ____  ___  _   _ 
